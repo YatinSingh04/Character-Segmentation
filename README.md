@@ -21,7 +21,7 @@ This project focuses on character segmentation, a crucial task in optical charac
 
 ### Prerequisites
 - Python 3.x
-- [Required Python Libraries](#) - List the required libraries with versions.
+- [Required Python Libraries](#) - numpy, os, opencv, matplotlib.pyplot
 
 Contributing
 Contributions are welcome! Please follow the contribution guidelines for details.
